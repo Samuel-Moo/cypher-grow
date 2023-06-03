@@ -20,9 +20,11 @@ export default function Navbar(){
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
     <li><a href="../home">Home</a></li>
-        <li><a href="../settings">Settings</a></li>
+    <li><a href="../search">Search</a></li>
+
         <li><a href="../profile">Profile</a></li>
-        <li><a href="../search">Search</a></li>
+        <li><a href="../settings">Settings</a></li>
+
         <li><a href="../aboutus">About Us</a></li>
 
     </ul>
