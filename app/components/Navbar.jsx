@@ -28,7 +28,7 @@ export default function Navbar(){
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn" href="../login">Login/Signup</a>
+    <a className="btn" href="../login">Log In</a>
   </div>
 </div>
 </>
