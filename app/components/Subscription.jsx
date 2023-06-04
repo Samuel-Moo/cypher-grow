@@ -2,7 +2,7 @@
 export default function Subscription(){
     return (
         <>
-        <section className="flex space-x-12 justify-center lg:space-x-24 py-16">
+        <section className="flex space-x-6 ml-16 mr-auto md:space-x-16 lg:space-x-24 py-16">
             <div className="flex flex-col border-4 border-white rounded-xl p-8 space-y-4">
                 <h2 className="text-2xl font-bold">Plan1</h2>
                 <p className="text-lg">This plan inculde basic benefits.</p>
